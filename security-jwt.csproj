@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <PackageVersion>0.1.0</PackageVersion>
+    <!-- Major (quebra de compatibilidade).Minor.Patch -->
+    <PackageId>JwtSecurity</PackageId>
   </PropertyGroup>
 
 </Project>
